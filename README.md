@@ -2,6 +2,7 @@
 This project was developed for the Manipal University Jaipur Hackathon. It provides a web-based application for suggesting medication and dosage schedules based on patient details. The system utilizes machine learning models to predict the most appropriate medication and dosage based on various input features such as age, health conditions, and test results.
 
 Features:
+
 Medication Suggestion: Predicts suitable medication for the patient.
 
 Dosage Scheduling: Provides a customized dosage schedule based on the number of doses, start time, and duration between doses.
